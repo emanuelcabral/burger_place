@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/burger_tr.png" type="image/x-icon">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        main{
+            background-color: rgb(53, 195, 10);
+            height: 100vh;
+            width: 100%;
+            text-align: center;
+            display: grid;
+            place-items: center;
+        }
+        h1,h2{
+            text-transform: uppercase;
+            color: white;
+            font-family: 'Permanent Marker', cursive;
+        }
+
+        h1{
+            font-size: 70px;
+            text-shadow: 0 0 10px #333;
+        }
+
+        a{
+            text-decoration: none;
+        }
+
+        h2{
+            font-size: 150px;
+            background-image: url(img/burger_tr.png);
+            background-size: cover;
+            text-shadow: 0 0 10px #333;
+            animation-name: burger ;
+            animation-duration: 6.5s;
+            animation-iteration-count: infinite;
+            animation-delay: 5s;
+        
+        }
+
+        h2:hover{
+            cursor: pointer;
+            /* font-size: 180px;
+            transition: all 0.75s; */
+            color: rgb(255, 230, 0);
+            
+        }
+
+        h5{
+            color: rgb(255, 230, 0);
+            font-size: 30px;
+            text-transform: uppercase;
+            font-family: 'Permanent Marker', cursive;
+        }
+
+        h3{
+            font-size: 25px;
+            font-family: 'Chewy', cursive;
+            text-transform: uppercase;
+        }
+
+        @keyframes burger{
+            0%{
+                font-size: 150px;
+            }
+            25%{
+                font-size: 180px;
+                transform: rotate(360deg);
+            }
+            75%{
+                font-size: 150px;
+            }
+            100%{
+                font-size: 180px;
+                transform: rotate(360deg);
+            }
+        }
+
+    </style>
+</head>
+<body>
+    <main>
+      <h1>error</h1>
+      <a href="index.html"><h2>404</h2></a>
+      <h5>volver al inicio</h5>
+      <h3>oops... no encontramos lo que estabas buscando</h3>
+    </main>
+</body>
+</html>
