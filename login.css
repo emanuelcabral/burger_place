@@ -1,0 +1,94 @@
+/* login css inicio */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner_login{
+    background-image: url(img/back4.jpg);
+    background-size: cover;
+    background-position: center;
+    /* background-color: blue; */
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    position: relative;
+
+}
+
+/* .banner_login::after{
+    content: '';
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background-color: linear-gradient(rgba(200, 17, 145, 0.5) , rgba(0,0,255,0.5) , rgba(250,50,255,0.5) );
+} */
+
+h1{
+    text-align: center;
+    color: yellow;
+    font-size: 70px;
+    text-transform: uppercase;
+    font-family: 'Permanent Marker', cursive;
+
+}
+.banner_login form{
+    background-color: crimson;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(53, 195, 10, 0.5);
+    height: auto;
+    width: 70%;
+    border:3px solid yellow;
+    padding: 1% 5%;
+}
+
+h4{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Permanent Marker', cursive;
+    color: rgb(53, 195, 10);
+    color:black ;
+
+}
+
+label, input{
+    width: 100%;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    text-transform: uppercase;
+}
+input{
+    margin-bottom: 3%;
+}
+.button1{
+    background-color: yellow;
+    padding: 0.5% 1%;
+}
+
+.button1:hover{
+    background-color: rgb(53, 195, 10);
+    cursor: pointer;
+}
+
+label{
+    /* font-weight: bold; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+}
+input::placeholder{
+    font-size: 25px;
+    font-family: monospace;
+}
+a{
+    color: rgb(53, 195, 10);
+    font-size: 25px;
+    text-decoration: none;
+    color: #fafafa;
+}
+a:hover{
+  color: yellow;  
+}
+
+
+/* login css fin */
