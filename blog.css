@@ -1,0 +1,28 @@
+/* fuentes - inicio */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Permanent+Marker&display=swap');
+
+/* fuentes - fin */
+
+/* login css inicio */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blog{
+    background-image: url(img/back21.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 70px;
+}

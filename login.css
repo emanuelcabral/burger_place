@@ -1,3 +1,10 @@
+/* fuentes - inicio */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Permanent+Marker&display=swap');
+
+/* fuentes - fin */
+
 /* login css inicio */
 *{
     margin: 0;
@@ -31,7 +38,8 @@ h1{
     font-size: 70px;
     text-transform: uppercase;
     font-family: 'Permanent Marker', cursive;
-
+    animation-name: anima;
+    animation-duration: 8s;
 }
 .banner_login form{
     background-color: crimson;
@@ -84,11 +92,31 @@ a{
     color: rgb(53, 195, 10);
     font-size: 25px;
     text-decoration: none;
-    color: #fafafa;
+    color: #f1f1f1;
+    
 }
 a:hover{
   color: yellow;  
 }
 
+@keyframes anima{
+    0%{
+        letter-spacing: 60px;
+        opacity: 0;
+    }
+    10%{
+        opacity: 1;
+        color: rgb(53, 195, 10);
+        letter-spacing: 0;
+    }
+    50%{
+        letter-spacing: 50px;
+    }
+    100%{
+        letter-spacing: 0px;
+        opacity: 1;
+        color: yellow;
+    }
+}
 
 /* login css fin */
