@@ -1,7 +1,7 @@
 # burger_place
 Burger Place
 # 💫 About Me:
-English:<br><br>👨‍🏫 Teacher and web developer<br>👨‍💻 I am currently working at Coderhouse / Codo a codo<br>👯 I am looking to collaborate in IT Projects<br>🤝 I am looking for help with more job offers<br>🌱 I am currently learning more languages ​​and frameworks<br>💬 Ask me about any job offer<br>⚡ Technologist<br><br>Español<br><br>👨‍🏫 Profesor y desarrollador web<br>👨‍💻 Actualmente estoy trabajando en Coderhouse / codoacodo<br>👯 Estoy buscando colaborar en Proyectos IT<br>🤝 Estoy buscando ayuda con mas ofertas laborales<br>🌱 Actualmente estoy aprendiendo mas lenguajes y frameworks<br>💬 Pregúntame sobre cualquier oferta laboral<br>⚡ Tecnólogo
+English:<br><br>👨‍🏫 Teacher and web developer<br>👨‍💻 I am currently working at Coderhouse / Codo a codo<br>👯 I am looking to collaborate in IT Projects<br>🤝 I am looking for help with more job offers<br>🌱 I am currently learning more languages ​​and frameworks<br>💬 Ask me about any job offer<br>⚡ Technologist<br><br>Español<br><br>👨‍🏫 Profesor y desarrollador web<br>👨‍💻 Actualmente estoy trabajando en Coderhouse / Codoacodo<br>👯 Estoy buscando colaborar en Proyectos IT<br>🤝 Estoy buscando ayuda con mas ofertas laborales<br>🌱 Actualmente estoy aprendiendo mas lenguajes y frameworks<br>💬 Pregúntame sobre cualquier oferta laboral<br>⚡ Tecnólogo
 
 
 ## 🌐 Socials:
